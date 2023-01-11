@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tarnid2", "Tarnid2\Tarnid2.pyproj", "{33ECD7BB-C63B-4F22-A8D5-27CD3668F152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33ECD7BB-C63B-4F22-A8D5-27CD3668F152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ECD7BB-C63B-4F22-A8D5-27CD3668F152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B400EEC-82D6-47B9-A5D2-A9ADA11D8E7B}
+	EndGlobalSection
+EndGlobal
